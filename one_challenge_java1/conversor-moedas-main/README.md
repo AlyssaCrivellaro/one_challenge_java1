@@ -25,3 +25,5 @@ E de forma inversa:
  - De GBP/Libras Esterlinas para BRL/Reais
  - De ARS/Peso Argentino para BRL/Reais
  - De CLP/Peso Chileno para BRL/Reais
+   
+<img src="https://github.com/AlyssaCrivellaro/one_challenge_java1/blob/f5998edb6ebb9777eaa6e5d7e8f5d1cf2b1081bf/Badge-Conversor.png">
